@@ -1,5 +1,4 @@
-## Hi there 👋
-- 🔭 I’m currently working on 
+## Hi there 👋 
 - 🌱 I’m currently learning at SPBSTU(Software Engineering)
 - 📫 How to reach me: timyrik6100@gmail.com
 - 😄 Pronouns: he/him

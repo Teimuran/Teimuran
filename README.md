@@ -1,10 +1,18 @@
-<!--
-**Teimuran/Teimuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Timur 👋
 
-Here are some ideas to get you started:
+I'm a **Java / Kotlin Backend Developer** and Software Engineering student at **SPbPU**, focused on building reliable microservices and event-driven systems.
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning at SPBSTU(Software Engineering)
-- 📫 How to reach me: timyrik6100@gmail.com
-- 😄 Pronouns: he/him
--->
+- 🔭 Currently working as a Backend Developer at **Okko** (Java 17/21, Spring Boot, Kafka, PostgreSQL, Redis)
+- ⚙️ Focused on backend architecture, database optimization, automated testing, and observability
+- 🤖 Engineering background: **FIRST Robotics** (international championship in Australia) & founder/captain of the **SPbPU Drone Racing Team**
+- 📫 Contact: **timyrik6100@gmail.com**
+
+---
+
+### Tech Stack
+
+- **Languages:** Java (17, 21), Kotlin
+- **Frameworks:** Spring Boot, Spring Data JPA, Spring Web, Spring Kafka, Hibernate
+- **Databases & Messaging:** PostgreSQL, Apache Kafka, Redis, Liquibase
+- **Testing:** JUnit 5, Mockito, WireMock
+- **DevOps & Observability:** Docker, Kubernetes, Prometheus, Grafana, Splunk, Git
